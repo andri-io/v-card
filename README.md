@@ -11,4 +11,4 @@
   </a>
 </div><br>
 <h2 align="center">Membuat vcard Menggunakan framework bootsrap</h2>
-<br> <img src="vcard.png> <br> <hr>
+<br> <img src="/vcard.png"> <br> <hr>
